@@ -6,11 +6,11 @@ categories: Myself
 ---
 Hi!
 
-My name is Kavan and I'm currently working towards my bacchlors in computer science. I'm currently enrolled at CCRI in a general studies major. I chose to go to community college because it makes a lot more sense financially.I'm planning on transfering to teh universicty of Rhode Island when I finish my assosiates degree.
+My name is Kavan and I’m currently working towards my bachelor's in computer science. I’m currently enrolled at CCRI in a general studies major. I chose to go to community college because it makes a lot more sense financially. I'm planning on transferring to the university of Rhode Island when I finish my associates degree. 
 
-I like to think of myself as a well read person, so I try to keep up with international politics. I'm also into learning languages. I'm learning French, Japanese and Mandarin at the momement. I keep myself updated with the latest tech news and changes in the tech industreis even though I still wouldn't consider myself a part of it. :(
+I like to think of myself as a well-read person, so I try to keep up with international politics. I’m also into learning languages. I’m learning French, Japanese and Mandarin at the movement. I keep myself updated with the latest tech news and changes in the tech industries even though I still wouldn't consider myself a part of it. :( 
 
-Either way, I hope you stick around. I hope to make weekly updates to this page. ;)
+Either way, I hope you stick around. I hope to make weekly updates to this page. ;) 
 
 btw, if it wasn't obvious this website is github pages [github pages][github-page] made with Jekyll [jekyll website][jekyll-web] a static website builder.
 
