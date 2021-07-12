@@ -10,7 +10,7 @@ My name is Kavan and I’m currently working towards my bachelor's in computer s
 
 I like to think of myself as a well-read person, so I try to keep up with international politics. I’m also into learning languages. I’m learning French, Japanese and Mandarin at the movement. I keep myself updated with the latest tech news and changes in the tech industries even though I still wouldn't consider myself a part of it. :( 
 
-Either way, I hope you stick around. I hope to make weekly updates to this page. ;) 
+Either way, I hope you stick around. I'll be making updates to this site as much as I can. (O w O)
 
 btw, if it wasn't obvious this website is [github pages][github-page] made with [jekyll][jekyll-web] a static website builder.
 
